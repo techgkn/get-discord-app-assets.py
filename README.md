@@ -12,7 +12,7 @@ Usage:
 python get-discord-app-assets.py
 ```
 
-If everything has been set up properly, all application assets should download automatically, in the setted format and size.
+Assets download to "your user directory"/assets, at the resolution of 1024x1024 by default.
 
 👍
 
