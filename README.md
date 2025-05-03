@@ -3,10 +3,11 @@
 [leonardssh's](https://github.com/leonardssh/)[ get-discord-app-assets, ](https://github.com/leonardssh/get-discord-app-assets)rewritten in python
 
 Usage:
-> Install packages
-```sh
-> pip install -r requirements.txt
-```
+~~Install packages~~
+~~pip install -r requirements.txt~~
+
+it now uses the builtin urllib, no requirements
+
 > Run:
 ```sh
 python get-discord-app-assets.py
